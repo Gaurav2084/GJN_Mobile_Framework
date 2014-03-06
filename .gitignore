@@ -1,6 +1,10 @@
 *.class
 
 # Package Files #
+<<<<<<< HEAD
+=======
+
+>>>>>>> 007c6f051c73b113a3f67173cd7d62dd175d2f0d
 *.war
 *.ear
 /target
