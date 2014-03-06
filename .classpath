@@ -25,18 +25,18 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/calabash-android-java-1.3.0.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/calabash-android-java-1.3.0-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/commons-io-2.4.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/cucumber-core-1.1.5.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/cucumber-java-1.1.5.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/cucumber-junit-1.1.5.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/cucumber-jvm-deps-1.0.3.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/gherkin-2.12.2.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/jackson-core-asl-1.9.13.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/jackson-mapper-asl-1.9.13.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/jruby-1.7.5.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="D:/Automation/Selenium/MobileFramwork/GJN_Mobile_Framework/lib/zip4j_1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/calabash-android-java-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/calabash-android-java-1.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/cucumber-core-1.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/cucumber-java-1.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/cucumber-junit-1.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/jruby-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jaideepnair/Documents/GitHub/GJN_Mobile_Framework/lib/zip4j_1.3.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
