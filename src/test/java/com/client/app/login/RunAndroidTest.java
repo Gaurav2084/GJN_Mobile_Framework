@@ -4,7 +4,7 @@ import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(format = "pretty", features = "classpath:com.client.app.login.test.feature")
+@CucumberOptions(features = "classpath:test.feature")
 
 public class RunAndroidTest {
 	

@@ -1,6 +1,4 @@
-/**
- *
- */
+
 package com.GNJFramework.calabash.android;
 
 import org.jruby.RubyArray;
