@@ -2,8 +2,8 @@ package com.GJNFramework.login;
 
 import static junit.framework.Assert.assertEquals;
 
-import com.GNJFramework.calabash.android.UIElement;
-import com.GNJFramework.calabash.android.UIElements;
+import com.GJNFramework.calabash.android.UIElement;
+import com.GJNFramework.calabash.android.UIElements;
 import com.client.app.login.Application;
 
 public class homepage {
